@@ -15,4 +15,4 @@ cat /output/entry.txt
 
 ## Entry
 
-> Monday gets one star: it arrived early, stayed too long, and the coffee machine filed for divorce by 9 a.m.
+> Monday gets one star: my alarm quit, the elevator died, and my 9 a.m. was a meeting to schedule the meeting about the meeting.
